@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ざらめき",
+  "base_artist": "CreepHyp",
+  "createdAt": "2025-12-04T18:51:51.437413Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ざらめき",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_ざらめき_クリープハイプ.txt"
+    }
+  ]
+}
